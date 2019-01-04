@@ -114,7 +114,7 @@ uk:
         one: "%{count} місяць"
         other: "%{count} місяця"
       x_years:
-        few: "%{count} років"
+        few: "%{count} роки"
         many: "%{count} років"
         one: "%{count} рік"
         other: "%{count} року"
@@ -149,7 +149,7 @@ uk:
       less_than_or_equal_to: має бути менше ніж або дорівнювати %{count}
       model_invalid: 'Виникли помилки: %{errors}'
       not_a_number: не число
-      not_an_integer: не э цілим числом
+      not_an_integer: не є цілим числом
       odd: має бути непарним
       required: не може бути порожнім
       taken: вже зайнятий

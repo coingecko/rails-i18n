@@ -148,8 +148,8 @@ pt:
   number:
     currency:
       format:
-        delimiter: " "
-        format: "%n %u"
+        delimiter: "."
+        format: "%u %n"
         precision: 2
         separator: ","
         significant: false
@@ -194,6 +194,8 @@ pt:
           kb: KB
           mb: MB
           tb: TB
+          pb: PB
+          eb: EB
     percentage:
       format:
         delimiter: ''
@@ -202,7 +204,7 @@ pt:
         delimiter: ''
   support:
     array:
-      last_word_connector: ", e"
+      last_word_connector: " e "
       two_words_connector: " e "
       words_connector: ", "
   time:
